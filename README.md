@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Mountains+of+Christmas&weight=700&size=40&pause=1000&color=F70000&background=000000&vCenter=true&random=true&width=435&lines=Big+Data+Notes)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Mountains+of+Christmas&weight=700&size=40&pause=1000&color=F70000&background=000000&center=true&vCenter=true&random=true&width=435&lines=Big+Data+Notes)](https://git.io/typing-svg)
 
 ---
 
